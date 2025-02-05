@@ -1,1 +1,3 @@
-# Web-Scraper-with--ava
+Building a Professional NeurIPS Paper Scraper with Java and Jsoup
+BLOG LINK:https://medium.com/@bilalyou8334/building-a-professional-neurips-paper-scraper-with-java-and-jsoup-d2c9220676db
+Git-Repo link:https://medium.com/@bilalyou8334/building-a-professional-neurips-paper-scraper-with-java-and-jsoup-d2c9220676db
